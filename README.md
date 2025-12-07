@@ -1,2 +1,2 @@
-# LatihanMembuatTokoBukuOnline-PHP
-Belajar Membuat Toko Buku Online Menggunakan PHP
+# Practice Creating an Online Bookstore-PHP
+Learn to Create an Online Bookstore Using PHP
